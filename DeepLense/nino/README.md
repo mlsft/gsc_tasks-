@@ -1,3 +1,9 @@
+Github: https://github.com/LovelyBuggies
+
+Blog: https://www.jianshu.com/u/ad132373fc48
+
+Gmail: ninomyemail@gmail.com
+
 # DarkMatter-Lensing
 Using PyAutoLens to simulate dark matters and learn their representation.
 
