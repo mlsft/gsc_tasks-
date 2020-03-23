@@ -1,3 +1,5 @@
+CV: https://github.com/mlsft/gsoc_tasks-/blob/master/DeepLense/CVs/CV_nino.pdf
+
 Github: https://github.com/LovelyBuggies
 
 Blog: https://www.jianshu.com/u/ad132373fc48
