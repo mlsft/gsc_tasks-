@@ -1,4 +1,4 @@
-CV: CV_Pranath_Reddy.pdf
+CV: https://github.com/mlsft/gsoc_tasks-/blob/master/DeepLense/CVs/CV_Pranath_Reddy.pdf
 
 Github: https://github.com/PyJedi
 
