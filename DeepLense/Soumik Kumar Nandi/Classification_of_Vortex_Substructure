@@ -1,0 +1,4 @@
+The Vortex Substructure so generated can be classified into one of the three classes namely - Vortex Substructure, 
+Spherical Substructure and No-Substructure. We feed a Deep Convolutional Neural Network to learn the Image Representation
+of each class. The goal here is not to only classify images but also detect anomalies. Few Main Reasons for Using Conv-Autoencoder are-
+documented into the Architecture.docx file. 
