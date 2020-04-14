@@ -1,3 +1,7 @@
+CV: http://bit.ly/Shravan_S_Chaudhari-CV 
+
+Github: https://github.com/Shra1-25
+
 # Cern_HSF_tasks
 ## Running inference on python:
 This repository contains 9 files including this Readme file.  
