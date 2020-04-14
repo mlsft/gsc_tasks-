@@ -1,3 +1,5 @@
+Name: Shuo Liu
+
 CV: https://github.com/mlsft/gsoc_tasks-/blob/master/DeepLense/CVs/CV_nino.pdf
 
 Github: https://github.com/LovelyBuggies
